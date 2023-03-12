@@ -1,0 +1,23 @@
+#Mapping values
+#Tue Mar 07 19:14:14 IST 2023
+ATR=ATR__c
+BB_Current_Lower=BB_Band_Lower_Current__c
+BB_Current_Upper=BB_Band_Upper_Current__c
+BB_Previous_Lower=BB_Band_Lower_Previous__c
+BB_Previous_Upper=BB_Band_Upper_Previous__c
+Close=Close__c
+Date=Timestamp__c
+EMA25=EMA_25__c
+EMA50=EMA_50__c
+High=High__c
+Low=Low__c
+Open=Open__c
+ROC=ROC__c
+RSI_current=RSI__c
+RSI_previous=Previous_RSI__c
+SMA10=SMA_10__c
+SMA7=SMA_7__c
+Status=Period__c
+Symbol=Name
+Volume=Volume__c
+Willr=WILLR__c
